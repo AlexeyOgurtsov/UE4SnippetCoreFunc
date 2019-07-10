@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{51893BD0-469F-9945-7C12-569409720E7E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProjCoreFunc",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
